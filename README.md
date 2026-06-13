@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.tenor.com/(https://tenor.com/pt-PT/view/hy-gif-13132409446866524841).gif" width="100%">
+<img src="https://media.tenor.com/[https://tenor.com/pt-PT/view/hy-gif-13132409446866524841].gif" width="100%">
 
-# 👨‍💻 Seu Nome
+# 👨‍💻 Danilo Ferreira do Nascimento
 
-### Full Stack Developer • Software Engineer • Open Source Enthusiast
+### Desenvolvedor Iniciante
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Backend+%26+Frontend+Development;Clean+Code+%7C+Architecture+%7C+Performance;Always+Learning+New+Technologies"/>
 
@@ -14,20 +14,22 @@
 
 # 👁️ About Me
 
-yaml
+
 name: Danilo Ferreira do Nascimento
-role: Full Stack Developer
+role: Desenvolvedor iniciante
 location: Brazil
 focus:
-  - Web Development
-  - Software Architecture
-  - Cloud Computing
-  - Artificial Intelligence
+  HTML
+  CSS
+  JS
+  C++
+  SQL
 
 currently_learning:
   - Kubernetes
   - Microservices
   - AWS
+  - System Design
 
 mindset:
   "Continuous improvement through code."
@@ -47,13 +49,7 @@ mindset:
 
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,express"/>
 
-### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github"/>
 
 </div>
 
@@ -63,9 +59,9 @@ mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DnlFerreiraNcmt&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnlFerreiraNcmt&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -75,7 +71,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DnlFerreiraNcmt&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -85,7 +81,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DnlFerreiraNcmt&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -95,7 +91,7 @@ mindset:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/DnlFerreiraNcmt/DnlFerreiraNcmt/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -103,15 +99,15 @@ mindset:
 
 # 🚀 Featured Projects
 
-### 🔹 Project One
-Brief description of your project.
+### 🔹 SIte Blue Macaw
+Site de moda com roupas e acessórios
 
-*Stack:* React, Node.js, PostgreSQL
+*Stack:* HTML,CSS,JS
 
-### 🔹 Project Two
-Brief description of your project.
+### 🔹 Grid templates
+3 grid que formam a base de uma interface
 
-*Stack:* Java, Spring Boot, Docker
+*Stack:* HTML,CSS
 
 ### 🔹 Project Three
 Brief description of your project.
@@ -119,12 +115,12 @@ Brief description of your project.
 *Stack:* Python, FastAPI, MongoDB
 
 ---
-
+創造から現実へ
 # 🧠 Current Objectives
 
 text
 ▰▰▰▰▰▰▰▰▰▱ Mastering Cloud Architecture
-▰▰▰▰▰▰▰▱▱▱ Kubernetes
+▰▰▰▰▰▰▰▱▱▱ Programação
 ▰▰▰▰▰▰▰▰▱▱ System Design
 ▰▰▰▰▰▰▰▰▰▱ Artificial Intelligence
 
